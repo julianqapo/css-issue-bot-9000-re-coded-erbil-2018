@@ -13,10 +13,10 @@ h2 {
 }
 
 .completed {
-  font-family: 12px;
+  font-family: fantasy;
 }
 
 #tasks .completed {
-  background: : #000;
+  background: : #fff;
   text-decoration: underline;
 }
